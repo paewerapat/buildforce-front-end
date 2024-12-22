@@ -1,0 +1,23 @@
+{
+    "page_title": "ประกาศงานใหม่",
+    "bread_crumb": "ประกาศงานใหม่",
+
+    "title_h4": "ประกาศงาน",
+
+    "label_job_title": "ชื่องาน",
+    "label_job_description": "รายละเอียดงาน",
+    "label_job_position": "ตำแหน่งงาน",
+    "label_specialisms": "ความสามารถพิเศษ",
+    "label_workplace_mode": "สถานที่ทำงาน",
+    "label_employment_type": "รูปแบบการจ้าง",
+    "label_offer_salary": "เสนอเงินเดือน",
+    "label_work_experience": "ประสบการณ์การทำงาน",
+    "label_qualification": "วุฒิการศึกษา",
+    "label_address": "ที่อยู่",
+    "label_country": "ประเทศ",
+    "label_city": "จังหวัด",
+    "label_status": "สถานะการเปิดรับ",
+
+    "button_save": "บันทึก",
+    "button_post": "ประกาศงานใหม่"
+}

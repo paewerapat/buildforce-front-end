@@ -1,0 +1,31 @@
+{
+    "bread_crumb": "โปรไฟล์บริษัท",
+    "page_title": "โปรไฟล์บริษัท",
+
+    "browse_logo_img": "เลือกโลโก้",
+    "browse_logo_text": "ขนาดไฟล์สูงสุดคือ 2MB ไฟล์ที่เหมาะสมคือ .jpg & .png",
+
+    "browse_cover_img": "เลือกภาพพื้นหลัง",
+    "browse_cover_text": "ขนาดไฟล์สูงสุดคือ 2MB ไฟล์ที่เหมาะสมคือ .jpg & .png",
+
+    "label_company_name": "ชื่อบริษัท",
+    "label_email": "อีเมล์",
+    "label_phone": "โทรศัพท์",
+    "label_website": "เว็บไซต์",
+    "label_est_since": "ก่อตั้ง",
+    "label_team_size": "ขนาดทีม",
+    "label_industry": "อุตสาหกรรม",
+    "label_about_company": "เกี่ยวกับบริษัท",
+
+    "button_save": "บันทึก",
+    "button_create": "สร้าง",
+
+    "widget_title_profile": "โปรไฟล์",
+    "widget_title_social": "โซเชียล มีเดีย",
+    "widget_title_contact": "ข้อมูลการติดต่อ",
+
+    "label_country": "ประเทศ",
+    "label_city": "จังหวัด",
+    "label_address": "ที่อยู่"
+
+}

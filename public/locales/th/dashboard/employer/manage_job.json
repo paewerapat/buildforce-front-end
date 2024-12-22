@@ -1,0 +1,20 @@
+{
+    "page_title": "จัดการงาน",
+    "bread_crumb": "จัดการงาน",
+    "title_h4": "รายการงานของฉัน",
+
+    "table_title": "หัวข้อ",
+    "table_applicants": "ผู้สมัคร",
+    "table_create_and_expire": "วันที่ประกาศและสิ้นสุด",
+    "table_status": "สถานะ",
+    "table_action": "แอคชั่น",
+
+    "Applied": "สมัครแล้ว",
+
+    "Opened": "เปิดรับ",
+    "Closed": "ปิดรับ",
+
+    "View Aplication": "ดูผู้สมัคร",
+    "Edit Job": "แก้ไขงาน",
+    "Delete Job": "ลบงาน"
+}

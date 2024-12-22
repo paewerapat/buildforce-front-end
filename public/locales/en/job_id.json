@@ -1,0 +1,34 @@
+{
+    "job_overview_description": "Job Description",
+
+    "job_overview_posted": "Date Posted",
+    "job_overview_expired": "Expiration date",
+    "job_overview_location": "Location",
+    "job_overview_position": "Job Position",
+    "job_overview_qualification": "Qualification",
+    "job_overview_rate": "Rate",
+    "job_overview_salary": "Salary",
+
+    "new_graduates": "New graduates",
+    "year": "year",
+    "years": "years",
+
+    "apply_for_job": "Apply for this job",
+    "Apply For Job": "Apply For Job",
+    "Applied This Job": "Applied This Job",
+
+    "sidebar_widget_profile_link": "View company profile",
+    "sidebar_widget_website": "Website",
+
+    "social_share": "Share this job",
+
+    "Primary industry": "Primary industry",
+    "Company size": "Company size",
+    "Founded in": "Founded in",
+    "Phone": "Phone",
+    "Email": "Email",
+    "Location": "Location",
+    "Social media": "Social media",
+
+    "related_jobs": "Related Jobs"
+}

@@ -1,0 +1,31 @@
+{
+    "page_title": "โปรไฟล์ของฉัน",
+    "bread_crumb": "โปรไฟล์ของฉัน",
+
+    "title_h4": "โปรไฟล์ผู้สมัครของฉัน",
+    "widget_title_social": "โซเชียล มีเดีย",
+    "widget_title_contact": "ข้อมูลการติดต่อ",
+
+    "browse_avatar": "เลือกรูปโปรไฟล์",
+    "browse_avatar_text": "ขนาดไฟล์สูงสุดคือ 1MB ขนาดขั้นต่ำ: 330x300 และไฟล์ที่เหมาะสมคือ .jpg & .png",
+    
+    "label_full_name": "ชื่อ-สกุล",
+    "label_job_position": "ตำแหน่งงาน",
+    "label_phone": "เบอร์โทรศัพท์",
+    "label_email": "อีเมล์",
+    "label_website": "เว็บไซต์",
+    "label_expected_salary": "เงินเดือนที่คาดหวัง",
+    "label_experience": "ประสบการณ์",
+    "label_age": "อายุ",
+    "label_qualification": "วุฒิการศึกษา",
+    "label_languages": "ภาษา",
+    "label_specialisms": "ความสามารถพิเศษ",
+    "label_description": "รายละเอียด",
+    
+    "button_save": "บันทึก",
+    "button_create": "สร้าง",
+
+    "label_country": "ประเทศ",
+    "label_city": "จังหวัด",
+    "label_address": "ที่อยู่"
+}

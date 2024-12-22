@@ -1,0 +1,28 @@
+{
+    "page_title": "Job List",
+
+    "filter_search_h4": "Search by Keywords",
+    "filter_search_placeholder": "Job title or Keywords",
+    "filter_workplace_h4": "Workplace mode",
+    "filter_workplace_placeholder": "Select a workplace mode",
+    "filter_job_type_h4": "Job type",
+    "filter_job_type_placeholder": "Select a job type",
+    "filter_specialisms_h4": "Specialisms",
+    "filter_experience_h4": "Experience Level",
+    "filter_experience_plaecholder_default": "Select an experience",
+    "filter_experience_plaecholder_new_graduates": "New graduates",
+    "filter_experience_plaecholder_year": "year",
+    "filter_experience_plaecholder_years": "years",
+    "filter_salary_h4": "Salary",
+    "filter_button_reset": "Reset",
+    "filter_button_submit": "Done",
+
+    "showing_result_text": "Show",
+    "showing_result_text_tail": "jobs",
+
+    "filter_button_show": "Filter",
+    "sort_by_clear": "Clear All",
+
+    "sort_date_latest": "Latest",
+    "sort_date_oldest": "Oldest"
+}

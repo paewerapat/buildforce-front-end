@@ -1,0 +1,18 @@
+{
+    "page_title": "My Job Alerts",
+    "bread_crumb": "Job Alerts",
+
+    "title_h4": "My Applied Jobs",
+    "button_clear_all": "Clear All",
+
+    "latest": "Latest",
+    "oldest": "Oldest",
+
+    "table_title": "Title",
+    "table_event": "Event",
+    "table_created": "Created",
+    "table_action": "Action",
+
+    "View Job": "View Job",
+    "Delete Notify": "Delete Notify"
+}

@@ -1,0 +1,18 @@
+{
+    "page_title": "Applied Jobs",
+    "bread_crumb": "Applied Jobs",
+
+    "title_h4": "My Applied Jobs",
+    "table_job_title": "Job Title",
+    "table_date_applied": "Date Applied",
+    "table_status": "Status",
+    "table_action": "Action",
+    "table_button_view": "View Job",
+
+    "latest": "Latest",
+    "oldest": "Oldest",
+
+    "Active": "Active",
+    "Rejected": "Rejected",
+    "Approved": "Approved"
+}

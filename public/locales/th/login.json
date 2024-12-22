@@ -1,0 +1,18 @@
+{
+    "page_title": "เข้าสู่ระบบ",
+
+    "login_h3_title": "เข้าสู่ระบบกับ Buidlforce",
+    "label_email_username": "อีเมล์",
+    "label_password": "รหัสผ่าน",
+    "label_forget_password": "ลืมรหัสผ่าน?",
+
+    "button_loading": "กำลังประมวลผล...",
+    "button_login": "เข้าสู่ระบบ",
+
+    "text_no_account": "คุณยังไม่มีบัญชีใช่ไหม? ",
+    "link_register": "สมัครสมาชิก",
+
+    "or": "หรือ",
+
+    "Email or Password is invalid": "อีเมล์หรือรหัสผ่านไม่ถูกต้อง"
+}

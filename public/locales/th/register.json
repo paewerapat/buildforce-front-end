@@ -1,0 +1,22 @@
+{
+    "page_title": "สมัครสมาชิก",
+
+    "title_h3": "สร้างบัญชีฟรีกับ Buidlforce",
+    "Candidate": "ผู้สมัครงาน",
+    "Employer": "ผู้รับสมัครงาน",
+
+    "label_email": "อีเมล์",
+    "label_password": "รหัสผ่าน",
+    "label_cf_password": "ยืนยันรหัสผ่าน",
+
+    "button_loading": "ประมวลผล...",
+    "button_register": "สมัครสมาชิก",
+
+    "text_have_account": "คุณมีบัญชีอยู่แล้ว?",
+    "link_login": "เข้าสู่ระบบ",
+    "or": "หรือ",
+
+    "This email already exists": "มีอีเมล์นี้อยู่ในระบบแล้ว",
+    "User created successfully! Now you can login": "สร้างบัญชีเรียบร้อยแล้ว! ตอนนี้คุณสามารถเข้าสู่ระบบ",
+    "Please sign up first": "กรุณาลงทะเบียนก่อน"
+}

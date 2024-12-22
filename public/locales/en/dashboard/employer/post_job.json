@@ -1,0 +1,23 @@
+{
+    "page_title": "Post A New Job",
+    "bread_crumb": "Post A New Job",
+
+    "title_h4": "Post Job",
+
+    "label_job_title": "Job Titlte",
+    "label_job_description": "Job Description",
+    "label_job_position": "Job Positions",
+    "label_specialisms": "Specialisms",
+    "label_workplace_mode": "Workplace Modes",
+    "label_employment_type": "Employment Type",
+    "label_offer_salary": "Offered Salary",
+    "label_work_experience": "Work experience",
+    "label_qualification": "Qualification",
+    "label_address": "Compplete Address",
+    "label_country": "Country",
+    "label_city": "City",
+    "label_status": "Status Publish",
+
+    "button_save": "Save",
+    "button_post": "Post Now"
+}

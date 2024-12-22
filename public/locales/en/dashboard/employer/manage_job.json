@@ -1,0 +1,20 @@
+{
+    "page_title": "Manage Jobs",
+    "bread_crumb": "Manage Jobs",
+    "title_h4": "My Job Listings",
+
+    "table_title": "Title",
+    "table_applicants": "Applications",
+    "table_create_and_expire": "Created & Expired",
+    "table_status": "Status",
+    "table_action": "Action",
+
+    "Applied": "Applied",
+
+    "Opened": "Opened",
+    "Closed": "Closed",
+
+    "View Aplication": "View Aplication",
+    "Edit Job": "Edit Job",
+    "Delete Job": "Delete Job"
+}

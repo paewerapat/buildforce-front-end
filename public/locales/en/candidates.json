@@ -1,0 +1,28 @@
+{
+    "page_title": "Candidates List",
+
+    "filter_search_h4": "Search by Keywords",
+    "filter_search_placeholder": "Name of Candidate",
+    "filter_job_position_h4": "Job Position",
+    "filter_job_position_placeholder": "Choose a category",
+    "filter_experience_h4": "Experience Level",
+    "filter_experience_placeholder": "Choose an experience",
+    "filter_qualification_h4": "Qualification",
+    "filter_qualification_placeholder": "Select a qualification",
+    "filter_button_reset": "Reset",
+    "filter_button_submit": "Done",
+
+    "showing_result_text": "candidates",
+
+    "button_view_profile": "View Profile",
+    "filter_button_show": "Filter",
+    "sort_by_clear": "Clear All",
+
+    "sort_date_latest": "Latest",
+    "sort_date_oldest": "Oldest",
+
+    "New graduated": "New graduated",
+    "Year": "Year",
+    "Years": "Years",
+    "Unknown": "Unknown"
+}

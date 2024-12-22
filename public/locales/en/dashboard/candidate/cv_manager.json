@@ -1,0 +1,14 @@
+{
+    "page_title": "CV Manager",
+    "bread_crumb": "CV Manager",
+
+    "title_h4": "Your CV Manager",
+
+    "drag_and_drop_change": "Drag & drop files here, or click to changes CV files",
+    "drag_and_drop_new": "Drop the files here ...",
+    "drag_and_drop_click": "Drag & drop files here, or click to select files",
+    "drag_and_drop_text": "To upload file size is (Max 5Mb) and allowed file types are (.doc, .docx, .pdf)",
+    "drag_and_drop_button": "Upload Files",
+
+    "Save": "Save"
+}

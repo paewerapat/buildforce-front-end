@@ -1,0 +1,28 @@
+{
+    "page_title": "รายการงาน",
+
+    "filter_search_h4": "ค้นหาด้วยคีย์เวิร์ด",
+    "filter_search_placeholder": "ชื่องานหรือคีย์เวิร์ด",
+    "filter_workplace_h4": "สถานที่ทำงาน",
+    "filter_workplace_placeholder": "เลือกสถานที่ทำงาน",
+    "filter_job_type_h4": "ประเภทงาน",
+    "filter_job_type_placeholder": "เลือกประเภทงาน",
+    "filter_specialisms_h4": "ความสามารถพิเศษ",
+    "filter_experience_h4": "ระดับประสบการณ์",
+    "filter_experience_plaecholder_default": "เลือกประสบการณ์",
+    "filter_experience_plaecholder_new_graduates": "นักศึกษาจบใหม่",
+    "filter_experience_plaecholder_year": "ปี",
+    "filter_experience_plaecholder_years": "ปี",
+    "filter_salary_h4": "เงินเดือน",
+    "filter_button_reset": "รีเซ็ต",
+    "filter_button_submit": "เสร็จสิ้น",
+
+    "showing_result_text": "โชว์",
+    "showing_result_text_tail": "งาน",
+
+    "filter_button_show": "กรองข้อมูล",
+    "sort_by_clear": "เคลียร์กรองข้อมูล",
+
+    "sort_date_latest": "ล่าสุด",
+    "sort_date_oldest": "เก่าสุด"
+}

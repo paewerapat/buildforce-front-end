@@ -1,0 +1,18 @@
+{
+    "page_title": "All Applicants",
+    "bread_crumb": "All Applicants",
+    "title_h4": "Applicant",
+
+    "sort_by_jobs": "All Jobs",
+    "sort_by_time": "All Time",
+    "sort_by_time_week": "Last 7 days",
+    "sort_by_time_month": "Last 30 days",
+    "sort_by_time_quarter": "Last 90 days",
+    "sort_by_time_year": "Last 1 year",
+
+    "widget_content_h6": "Applicant List",
+
+    "Total": "Total",
+    "Approved": "Approved",
+    "Rejected": "Rejected"
+}

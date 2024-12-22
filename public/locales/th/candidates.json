@@ -1,0 +1,28 @@
+{
+    "page_title": "รายการผู้สมัครงาน",
+
+    "filter_search_h4": "ค้นหาด้วยคีย์เวิร์ด",
+    "filter_search_placeholder": "ชื่อของผู้สมัคร",
+    "filter_job_position_h4": "ตำแหน่งงาน",
+    "filter_job_position_placeholder": "เลือกหมวดหมู่",
+    "filter_experience_h4": "ระดับประสบการณ์",
+    "filter_experience_placeholder": "เลือกประสบการณ์",
+    "filter_qualification_h4": "วุฒิการศึกษา",
+    "filter_qualification_placeholder": "เลือกวุฒิการศึกษา",
+    "filter_button_reset": "รีเซ็ต",
+    "filter_button_submit": "เสร็จสิ้น",
+
+    "showing_result_text": "ผู้สมัคร",
+
+    "button_view_profile": "ดูโปรไฟล์",
+    "filter_button_show": "กรองข้อมูล",
+    "sort_by_clear": "เคลียร์กรองข้อมูล",
+
+    "sort_date_latest": "ล่าสุด",
+    "sort_date_oldest": "เก่าสุด",
+
+    "New graduated": "นักศึกษาจบใหม่",
+    "Year": "ปี",
+    "Years": "ปี",
+    "Unknown": "ไม่ทราบ"
+}

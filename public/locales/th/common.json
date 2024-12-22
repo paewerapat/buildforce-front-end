@@ -1,0 +1,69 @@
+{
+    "login_h3_title": "เข้าสู่ระบบ Buidlforce",
+    "job_section_h2": "งานที่ได้รับความนิยม",
+    "banner_section_h3": "วิธีที่ง่ายที่สุดในการได้งานใหม่ของคุณ",
+    "job_section_text": "รู้คุณค่าของคุณและหางานที่เหมาะกับชีวิตของคุณ",
+    "under_search": "คุณสามารถหางานที่ตรงกับความสามารถและคุณค่าในตัวของคุณ",
+
+    "new_graduates": "นักศึกษาจบใหม่",
+    "year": "ปี",
+    "years": "ปี",
+    "unknown": "ไม่ทราบ",
+    "hour": "ชั่วโมง",
+    "member": "สมาชิก",
+
+    "Menu": "เมนู",
+
+    "total": "ทั้งหมด",
+    "approved": "อนุมัติ",
+    "rejected": "ปฏิเสธ",
+
+    "change_pw_h4": "เปลี่ยนรหัสผ่านของคุณ",
+    "change_pw_h6": "ไม่สามารถเปลี่ยนรหัสผ่านได้เนื่องจากคุณเข้าสู่ระบบผ่าน Google",
+    "old_password": "รหัสผ่านเก่า",
+    "new_password": "รหัสผ่านใหม่",
+    "confirm_password": "ยืนยันรหัสผ่าน",
+    "update": "อัปเดต",
+
+    "latest": "ล่าสุด",
+    "oldest": "เก่าสุด",
+
+    "listing_showing_p": "ข้อมูลของคุณเป็นปัจจุบันแล้ว",
+    "listing_showing_back": "กลับสู่ด้านบน",
+    "listing_showing_more": "แสดงเพิ่มเติม",
+
+    "no_employer_profile_h3": "กรุณาสร้างโปรไฟล์ผู้ว่าจ้าง",
+    "no_employer_profile_p": "หน้านี้จำเป็นต้องมีโปรไฟล์ผู้ว่าจ้างสำหรับสิทธิ์การเข้าถึง",
+    "no_employer_profile_button": "สร้างโปรไฟล์ผู้ว่าจ้าง",
+
+    "no_candidate_profile_h3": "กรุณาสร้างโปรไฟล์ผู้สมัคร",
+    "no_candidate_profile_p": "หน้านี้จำเป็นต้องมีโปรไฟล์ผู้สมัครสำหรับสิทธิ์การเข้าถึง",
+    "no_candidate_profile_button": "สร้างโปรไฟล์ผู้สมัคร",
+
+    "404_p": "ไม่พบหน้าที่คุณกำลังมองหา",
+    "404_link": "กลับสู่หน้าหลัก",
+    "500_p": "เซิร์ฟเวอร์พบข้อผิดพลาดภายในหรือการกำหนดค่าไม่ถูกต้อง และไม่สามารถดำเนินการตามคำขอของคุณได้",
+    "500_link": "กลับสู่หน้าหลัก",
+
+    "change_password_page_title": "เปลี่ยนรหัสผ่าน",
+    "change_password_bread_crumb": "เปลี่ยนรหัสผ่าน",
+
+    "Home": "หน้าหลัก",
+    "Find Jobs": "หางาน",
+    "Employers": "ผู้ว่าจ้าง",
+    "Candidates": "ผู้สมัคร",
+    "Dashbaord": "แดชบอร์ด",
+    "Logout": "ออกจากระบบ",
+
+    "View Profile": "ดูโปรไฟล์",
+
+    "Job Post": "ประกาศรับสมัครงาน",
+    "Contact us": "ติดต่อเรา",
+
+    "Already approved": "รับสมัครแล้ว",
+    "Approve Application": "รับผู้สมัคร",
+    "View Application": "ดูผู้สมัคร",
+    "Reject Application": "ปฏิเสธผู้สมัคร",
+    "Add to shortlisted": "เพิ่มลงบันทึก",
+    "Remove from shortlisted": "ลบออกจากบันทึก"
+}

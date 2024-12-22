@@ -1,0 +1,19 @@
+{
+    "page_title": "รายการผู้ว่าจ้าง",
+
+    "filter_search_h4": "ค้นหาด้วยคีย์เวิร์ด",
+    "filter_search_placeholder": "ค้นหาด้วยชื่อบริษัท",
+    "filter_category_h4": "อุตสาหกรรม",
+    "filter_category_placeholder": "เลือกอุตสาหกรรม",
+
+    "filter_button_reset": "รีเซ็ต",
+    "filter_button_submit": "เสร็จสิ้น",
+
+    "showing_result_text": "ผู้ว่าจ้าง",
+
+    "filter_button_show": "กรองข้อมูล",
+    "sort_by_clear": "เคลียร์กรองข้อมูล",
+
+    "sort_date_latest": "ล่าสุด",
+    "sort_date_oldest": "เก่าสุด"
+}

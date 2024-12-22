@@ -1,0 +1,18 @@
+{
+    "page_title": "Login",
+
+    "login_h3_title": "Login to Buidlforce",
+    "label_email_username": "Email",
+    "label_password": "Password",
+    "label_forget_password": "Forgot password?",
+
+    "button_loading": "Processing...",
+    "button_login": "Log In",
+
+    "text_no_account": "Don't have an account? ",
+    "link_register": "Register",
+
+    "or": "or",
+
+    "Email or Password is invalid": "Email or Password is invalid..."
+}

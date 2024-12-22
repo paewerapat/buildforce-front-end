@@ -1,0 +1,22 @@
+{
+    "page_title": "Register",
+
+    "title_h3": "Create a Free Buidlforce Account",
+    "Candidate": "Candidate",
+    "Employer": "Employer",
+
+    "label_email": "Email",
+    "label_password": "Password",
+    "label_cf_password": "Confirm Password",
+
+    "button_loading": "Processing...",
+    "button_register": "Register",
+
+    "text_have_account": "Already have an account?",
+    "link_login": "Login",
+    "or": "or",
+
+    "This email already exists": "This email already exists",
+    "User created successfully! Now you can login": "User created successfully! Now you can login",
+    "Please sign up first": "Please sign up first"
+}

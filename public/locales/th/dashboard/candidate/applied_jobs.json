@@ -1,0 +1,18 @@
+{
+    "page_title": "งานที่สมัคร",
+    "bread_crumb": "งานที่สมัคร",
+
+    "title_h4": "งานที่สมัครของฉัน",
+    "table_job_title": "ชื่องาน",
+    "table_date_applied": "วันที่สมัคร",
+    "table_status": "สถานะ",
+    "table_action": "แอคชั่น",
+    "table_button_view": "ดูงาน",
+
+    "latest": "ล่าสุด",
+    "oldest": "เก่าสุด",
+
+    "Active": "รอผล",
+    "Rejected": "ปฏิเสธ",
+    "Approved": "รับแล้ว"
+}

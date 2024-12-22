@@ -1,0 +1,34 @@
+{
+    "page_title": "My Resume",
+    "bread_crumb": "My Resume",
+
+    "title_h4": "My Resume Profile",
+
+    "small_no_cv": "Don't have CV?",
+
+    "label_select_cv": "Select Your CV",
+    "label_education": "Education",
+    "label_hide_education": "Hide Education",
+    "label_add_education": "Add Education",
+    "label_academic_fields": "Academic fields",
+    "label_college": "College",
+    "label_work_and_experience": "Work & Experience",
+    "label_job_title": "Job Position",
+    "label_company": "Company",
+    "label_add_work": "Add Work",
+
+    "label_upload_cv_change": "Change Portfolio",
+    "label_upload_cv_add": "Add Portfolio",
+    "label_upload_cv_text": "Click or Drag & Drop here...",
+
+    "label_awards": "Awards",
+    "label_add_awards": "Add Award",
+    "label_title": "Title",
+    "label_project": "Project",
+    "label_year": "Year",
+    "label_description": "Description",
+
+    "label_specialisms": "Specialisms",
+
+    "button_save": "Save"
+}

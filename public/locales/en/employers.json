@@ -1,0 +1,19 @@
+{
+    "page_title": "Employers List",
+
+    "filter_search_h4": "Search by Keywords",
+    "filter_search_placeholder": "Search by company name",
+    "filter_category_h4": "Industry",
+    "filter_category_placeholder": "Choose a industry",
+
+    "filter_button_reset": "Reset",
+    "filter_button_submit": "Done",
+
+    "showing_result_text": "employers",
+
+    "filter_button_show": "Filter",
+    "sort_by_clear": "Clear All",
+
+    "sort_date_latest": "Latest",
+    "sort_date_oldest": "Oldest"
+}

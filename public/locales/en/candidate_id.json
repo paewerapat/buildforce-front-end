@@ -1,0 +1,25 @@
+{
+    "title_education": "Education",
+    "title_work_and_experience": "Work & Experience",
+    "title_awards": "Awards",
+
+    "sidebar_widget_experience": "Experience",
+    "sidebar_widget_age": "Age",
+    "sidebar_widget_salary": "Expected Salary",
+    "sidebar_widget_language": "Language",
+    "sidebar_widget_education": "Education Level",
+    "sidebar_widget_social": "Social media",
+    "sidebar_widget_skills": "Professional Skills",
+
+    "no_resume_profile_h3": "This Candidate does not have a resume.",
+    "no_resume_profile_p": "Candidates are required to create a resume profile before they can access this page.",
+    "no_resume_profile_button": "See other Candidates",
+
+    "Member": "Become a member",
+    "Hour": "Hour",
+    "Unknown": "Unknown",
+
+    "New graduates": "New graduates",
+    "Year": "Year",
+    "Years": "Years"
+}

@@ -1,0 +1,13 @@
+{
+    "page_title": "Employers Dashboard",
+    "bread_crumb": "Dashboard",
+
+    "notifications": "Notifications",
+    "recent_applicants": "Recent Applicants",
+
+    "card_block_posted_jobs": "Posted Jobs",
+    "card_block_applicant": "Application",
+    "card_block_shortlisted": "Shortlist",
+
+    "profile_chart_h4": "Your Applicant Analysis last year ago"
+}

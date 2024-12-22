@@ -1,0 +1,24 @@
+{
+    "page_title": "บันทึกงาน",
+    "bread_crumb": "บันทึกงานของฉัน",
+
+    "Jobs": "งาน",
+    "Employers": "ผู้ว่าจ้าง",
+
+    "title_jobs_h4": "งานโปรดของฉัน",
+    "title_employers_h4": "ผู้ว่าจ้างโปรดของฉัน",
+
+    "table_job_title": "ชื่องาน",
+    "table_date_applied": "วันที่สมัคร",
+    "table_status": "สถานะ",
+    "table_action": "แอคชั่น",
+
+    "table_profile": "โปรไฟล์",
+    "table_contact": "ติดต่อ",
+    "table_industry": "อุตสาหกรรม",
+
+    "Opened": "เปิดรับ",
+    "Closed": "ปิดรับ",
+
+    "Delete Shortlisted": "ลบบันทึก"
+}

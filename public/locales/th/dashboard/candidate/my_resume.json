@@ -1,0 +1,34 @@
+{
+    "page_title": "เรซูเม่ของฉัน",
+    "bread_crumb": "เรซูเม่ของฉัน",
+
+    "title_h4": "โปรไฟล์เรซูเม่ของฉัน",
+
+    "small_no_cv": "ยังไม่มี CV?",
+
+    "label_select_cv": "เลือก CV ของคุณ",
+    "label_education": "การศึกษา",
+    "label_hide_education": "ซ่อนการศึกษา",
+    "label_add_education": "เพิ่มการศึกษา",
+    "label_academic_fields": "สาขาการศึกษา",
+    "label_college": "สถานศึกษา",
+    "label_work_and_experience": "ประสบการณ์และการทำงาน",
+    "label_job_title": "ตำแหน่งงาน",
+    "label_company": "บริษัท",
+    "label_add_work": "เพิ่มงาน",
+
+    "label_upload_cv_change": "เปลี่ยนพอร์ตฟอลิโอ",
+    "label_upload_cv_add": "เพิ่มพอร์ตฟอลิโอ",
+    "label_upload_cv_text": "เลือกหรือลากและวางที่นี่...",
+
+    "label_awards": "รางวัล",
+    "label_add_awards": "เพิ่มรางวัล",
+    "label_title": "หัวข้อ",
+    "label_project": "โปรเจค",
+    "label_year": "ปี",
+    "label_description": "รายละเอียด",
+
+    "label_specialisms": "ความสามารถพิเศษ",
+
+    "button_save": "บันทึก"
+}

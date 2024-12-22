@@ -1,0 +1,34 @@
+{
+    "job_overview_description": "รายละเอียดงาน",
+
+    "job_overview_posted": "วันที่ลงข้อมูล",
+    "job_overview_expired": "วันหมดอายุ",
+    "job_overview_location": "สถานที่",
+    "job_overview_position": "ตำแหน่งงาน",
+    "job_overview_qualification": "วุฒิการศึกษา",
+    "job_overview_rate": "เรท",
+    "job_overview_salary": "เงินเดือน",
+
+    "new_graduates": "นักศึกษาจบใหม่",
+    "year": "ปี",
+    "years": "ปี",
+
+    "apply_for_job": "สมัครงานนี้",
+    "Apply For Job": "สมัครงานนี้",
+    "Applied This Job": "สมัครงานนี้แล้ว",
+
+    "sidebar_widget_profile_link": "ดูโปรไฟล์บริษัท",
+    "sidebar_widget_website": "เว็บไซต์",
+
+    "social_share": "แชร์งานนี้",
+
+    "Primary industry": "อุตสาหกรรมหลัก",
+    "Company size": "ขนาดบริษัท",
+    "Founded in": "ก่อตั้ง",
+    "Phone": "เบอร์โทรศัพท์",
+    "Email": "อีเมล์",
+    "Location": "สถานที่",
+    "Social media": "โซเชียล มีเดีย",
+
+    "related_jobs": "งานที่เกี่ยวข้อง"
+}

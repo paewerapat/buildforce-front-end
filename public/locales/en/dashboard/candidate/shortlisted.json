@@ -1,0 +1,24 @@
+{
+    "page_title": "Shortlisted Jobs",
+    "bread_crumb": "My Shortlisted Jobs",
+
+    "Jobs": "Jobs",
+    "Employers": "Employers",
+
+    "title_jobs_h4": "My Favorite Jobs",
+    "title_employers_h4": "My Favorite Employers",
+
+    "table_job_title": "Job Title",
+    "table_date_applied": "Date Applied",
+    "table_status": "Status",
+    "table_action": "Action",
+
+    "table_profile": "Profile",
+    "table_contact": "Contact",
+    "table_industry": "Industry",
+
+    "Opened": "Opened",
+    "Closed": "Closed",
+
+    "Delete Shortlisted": "Delete Shortlisted"
+}

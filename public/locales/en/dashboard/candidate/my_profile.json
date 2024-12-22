@@ -1,0 +1,31 @@
+{
+    "page_title": "My Profile",
+    "bread_crumb": "My Profile",
+
+    "title_h4": "My Candidate Profile",
+    "widget_title_social": "Social Network",
+    "widget_title_contact": "Contact Information",
+
+    "browse_avatar": "Browse Avatar",
+    "browse_avatar_text": "Max file size is 1MB, Minimum dimension: 330x300 And Suitable files are .jpg & .png",
+    
+    "label_full_name": "Full Name",
+    "label_job_position": "Job Positions",
+    "label_phone": "Phone",
+    "label_email": "Email Address",
+    "label_website": "Website",
+    "label_expected_salary": "Expected Salary",
+    "label_experience": "Experience",
+    "label_age": "Age",
+    "label_qualification": "Qualification",
+    "label_languages": "Languages",
+    "label_specialisms": "Specialisms",
+    "label_description": "Description",
+    
+    "button_save": "Save",
+    "button_create": "Create",
+
+    "label_country": "Country",
+    "label_city": "City",
+    "label_address": "Complete Address"
+}

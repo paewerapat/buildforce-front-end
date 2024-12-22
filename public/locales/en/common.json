@@ -1,0 +1,69 @@
+{
+    "login_h3_title": "Login to Buidlforce",
+    "job_section_h2": "Most Popular Jobs",
+    "banner_section_h3": "The Easiest Way to Get Your New Job",
+    "job_section_text": "Know your worth and find the job that qualify your life",
+    "under_search": "You can find a job that matches your abilities and values.",
+
+    "new_graduates": "New graduates",
+    "year": "year",
+    "years": "years",
+    "unknown": "Unknown",
+    "hour": "Hour",
+    "member": "Member",
+
+    "total": "Total",
+    "approved": "Approved",
+    "rejected": "Rejected",
+
+    "change_pw_h4": "Change Your Password",
+    "change_pw_h6": "Unable to change password because you are login via Google.",
+    "old_password": "Old Password",
+    "new_password": "New Password",
+    "confirm_password": "Confirm Password",
+    "update": "Update",
+
+    "Menu": "Menu",
+
+    "latest": "Latest",
+    "oldest": "Oldest",
+
+    "listing_showing_p": "You're now Up to date.",
+    "listing_showing_back": "Back to Top",
+    "listing_showing_more": "Show More",
+
+    "no_employer_profile_h3": "Please create employer profile.",
+    "no_employer_profile_p": "This page must to have employer profile for permission.",
+    "no_employer_profile_button": "Create Employer Profile",
+
+    "no_candidate_profile_h3": "Please Create Candidate Profile.",
+    "no_candidate_profile_p": "This page must to have candidate profile for permission.",
+    "no_candidate_profile_button": "Create Candidate Profile",
+
+    "404_p": "The page you are looking for could not be found.",
+    "404_link": "BACK TO HOME",
+    "500_p": "The server encountered an internal error or misconfiguration and was unable to complete your request.",
+    "500_link": "BACK TO HOME",
+
+    "change_password_page_title": "Change Password",
+    "change_password_bread_crumb": "Change Password",
+
+    "Home": "Home",
+    "Find Jobs": "Find Jobs",
+    "Employers": "Employers",
+    "Candidates": "Candidates",
+    "Dashbaord": "Dashbaord",
+    "Logout": "Logout",
+
+    "View Profile": "View Profile",
+
+    "Job Post": "Job Post",
+    "Contact us": "Contact us",
+
+    "Already approved": "Already approved",
+    "Approve Application": "Approve Aplication",
+    "View Application": "View Aplication",
+    "Reject Application": "Reject Aplication",
+    "Add to shortlisted": "Add to shortlisted",
+    "Remove from shortlisted": "Remove from shortlisted"
+}

@@ -1,0 +1,18 @@
+{
+    "page_title": "ผู้สมัครทั้งหมด",
+    "bread_crumb": "ผู้สมัครทั้งหมด",
+    "title_h4": "ผู้สมัคร",
+
+    "sort_by_jobs": "งานทั้งหมด",
+    "sort_by_time": "เวลาทั้งหมด",
+    "sort_by_time_week": "7 วันล่าสุด",
+    "sort_by_time_month": "30 วันล่าสุด",
+    "sort_by_time_quarter": "90 วันล่าสุด",
+    "sort_by_time_year": "1 ปีล่าสุด",
+
+    "widget_content_h6": "รายการผู้สมัคร",
+
+    "Total": "ทั้งหมด",
+    "Approved": "รับแล้ว",
+    "Rejected": "ปฏิเสธ"
+}

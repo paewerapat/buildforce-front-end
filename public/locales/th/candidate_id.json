@@ -1,0 +1,25 @@
+{
+    "title_education": "การศึกษา",
+    "title_work_and_experience": "ประสบการณ์และการทำงาน",
+    "title_awards": "รางวัล",
+
+    "sidebar_widget_experience": "ประสบการณ์",
+    "sidebar_widget_age": "อายุ",
+    "sidebar_widget_salary": "เงินเดือนที่คาดหวัง",
+    "sidebar_widget_language": "ภาษา",
+    "sidebar_widget_education": "ระดับการศึกษา",
+    "sidebar_widget_social": "โซเชียล มีเดีย",
+    "sidebar_widget_skills": "ทักษะวิชาชีพ",
+
+    "no_resume_profile_h3": "ผู้สมัครนี้ไม่มีข้อมูลเรซูเม่",
+    "no_resume_profile_p": "ผู้สมัครจะต้องสร้างโปรไฟล์เรซูเม่ก่อนจึงจะสามารถเข้าถึงหน้านี้ได้",
+    "no_resume_profile_button": "ดูผู้สมัครท่านอื่น",
+
+    "Member": "เป็นสมาชิก",
+    "Hour": "ชั่วโมง",
+    "Unknown": "ไม่ทราบ",
+
+    "New graduates": "นักศึกษาจบใหม่",
+    "Year": "ปี",
+    "Years": "ปี"
+}

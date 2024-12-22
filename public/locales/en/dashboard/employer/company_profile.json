@@ -1,0 +1,31 @@
+{
+    "bread_crumb": "Company Profile",
+    "page_title": "Company Profile",
+
+    "browse_logo_img": "Browse Logo",
+    "browse_logo_text": "Max file size is 2MB, Suitable files are .jpg & .png",
+
+    "browse_cover_img": "Browse Cover",
+    "browse_cover_text": "Max file size is 2MB, Suitable files are .jpg & .png",
+
+    "label_company_name": "Company Name",
+    "label_email": "Email address",
+    "label_phone": "Phone",
+    "label_website": "Website",
+    "label_est_since": "Est. Since",
+    "label_team_size": "Team Size",
+    "label_industry": "Industry",
+    "label_about_company": "About Company",
+
+    "button_save": "Save",
+    "button_create": "Create",
+
+    "widget_title_profile": "Profile",
+    "widget_title_social": "Social Network",
+    "widget_title_contact": "Contact Information",
+
+    "label_country": "Country",
+    "label_city": "City",
+    "label_address": "Complete Address"
+
+}

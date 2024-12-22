@@ -1,0 +1,18 @@
+{
+    "page_title": "การแจ้งเตือนงานของฉัน",
+    "bread_crumb": "การแจ้งเตือนงาน",
+
+    "title_h4": "งานที่ฉันสมัคร",
+    "button_clear_all": "ลบทั้งหมด",
+
+    "latest": "ล่าสุด",
+    "oldest": "เก่าสุด",
+
+    "table_title": "หัวข้อ",
+    "table_event": "กิจกรรม",
+    "table_created": "วันที่",
+    "table_action": "แอคชั่น",
+
+    "View Job": "ดูงาน",
+    "Delete Notify": "ลบการแจ้งเตือน"
+}
